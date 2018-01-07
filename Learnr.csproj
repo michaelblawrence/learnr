@@ -80,8 +80,6 @@
   <ItemGroup>
     <Compile Include="GameObjectCollection.cs" />
     <Compile Include="Global.cs" />
-    <None Include="Network.cs" />
-    <None Include="NetworkManager.cs" />
     <Compile Include="LSTMDeepGateLayer.cs" />
     <Compile Include="LSTMGateLayer.cs" />
     <Compile Include="LSTMLayer.cs" />
